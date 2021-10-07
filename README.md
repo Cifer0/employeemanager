@@ -23,7 +23,7 @@ The MySQL configuration can be confirmed in `src/main/resources` under `applicat
 - Username: `root`
 - Password: `password`
 
-![Database Structure](D:\Users\Jan\Documents\GitHub\employeemanager\screenshots\database.png)
+![Database Structure](\screenshots\database.png)
 
 ## Fixes
 

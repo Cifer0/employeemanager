@@ -23,7 +23,7 @@ The MySQL configuration can be confirmed in `src/main/resources` under `applicat
 - Username: `root`
 - Password: `password`
 
-![Database Structure](\screenshots\database.png)
+![Database Structure](https://github.com/Cifer0/employeemanager/blob/main/screenshots/database.png)
 
 ## Fixes
 
